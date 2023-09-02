@@ -36,6 +36,7 @@ npm run dev
 - React
 - Typescript
 - CSS3
+- Figma
 - Git & GitHub (Developed in [Trybe Organization](https://github.com/tryber))
 - Trello
 
