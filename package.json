@@ -22,7 +22,6 @@
     "dev": "vite --open",
     "preview": "vite preview",
     "coverage": "vitest run --coverage --watch=false",
-    "deploy": "gh-pages -d dist"
   },
   "browserslist": {
     "production": [
