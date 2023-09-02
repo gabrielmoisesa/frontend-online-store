@@ -1,0 +1,68 @@
+.details-container {
+  align-items: center;
+  display: flex;
+  height: 89.7vh;
+  justify-content: center;
+}
+
+.product-detail-card {
+  background-color: white;
+  box-shadow: 2.7px 2.7px 5.5px 0 rgba(0, 0, 0, 0.05);
+  height: 85%;
+  margin-left: 5rem;
+  width: 50rem;
+}
+
+.product-detail-card > h2 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.details-image {
+  height: 30rem;
+  margin-top: 2rem;
+  max-height: 100%;
+  object-fit: contain;
+  width: 100%;
+}
+
+.attributes-list-container {
+  background-color: white;
+  box-shadow: 2.7px 2.7px 5.5px 0 rgba(0, 0, 0, 0.05);
+  height: 100%;
+  margin-left: 5rem;
+  max-height: 100vh;
+  text-align: start;
+  width: 60%;
+}
+
+.attributes-list-card {
+  margin-left: 5rem;
+  margin-right: 5rem;
+  margin-top: 5rem;
+}
+
+.attributes-list-card > h2 {
+  font-size: 1.7rem;
+  margin-bottom: 1rem;
+}
+
+.attributes-list {
+  font-size: 1.95vh;
+  margin-bottom: 4.5rem;
+  margin-left: 1.25rem;
+  padding: 0;
+}
+
+.details-price-container {
+  align-items: center;
+  display: flex;
+  width: fit-content;
+}
+
+.details-price-container > h3 {
+  font-size: 1.7rem;
+  margin: 0;
+  margin-right: 2rem;
+  white-space: nowrap;
+}

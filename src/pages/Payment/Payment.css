@@ -1,0 +1,108 @@
+.payment-container {
+  display: flex;
+  justify-content: center;
+}
+
+.payment-product-price {
+  margin-left: 1rem;
+}
+
+.payment-form-container {
+  background-color: white;
+  box-shadow: 2.7px 2.7px 5.5px 0 rgba(0, 0, 0, 0.05);
+  height: 89.9vh;
+  padding: 3rem;
+  padding-top: 0;
+  text-align: start;
+  width: 50%;
+}
+
+.payment-user-info {
+  display: flex;
+  flex-flow: wrap;
+  gap: 0.5rem;
+  width: 35vw;
+}
+
+.payment-form-container h2 {
+  font-size: 2rem;
+}
+
+.payment-form-container input {
+  border: 1px solid #94979dec;
+  font-size: 0.87rem;
+  padding-left: 0.45rem;
+}
+
+.md-input {
+  height: 2rem;
+  width: 18rem;
+}
+
+.sm-input {
+  height: 2rem;
+  width: 10rem;
+}
+
+.lg-input {
+  height: 2rem;
+  width: 26rem;
+}
+
+.payment-method-title {
+  margin-bottom: 0.5rem;
+  margin-top: 3rem;
+}
+
+.payment-methods {
+  border-bottom: 2px solid #292d3267;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 2rem;
+  padding-left: 1rem;
+  width: 31vw;
+}
+
+.methods-names {
+  display: flex;
+  gap: 8rem;
+  padding-left: 1rem;
+}
+
+.methods-radios {
+  display: flex;
+}
+
+.methods-radios label {
+  display: flex;
+  margin-right: 1rem;
+  padding-left: 0.8rem;
+}
+
+.radio-input {
+  cursor: pointer;
+  margin-right: 0.5rem;
+  width: 1.1rem;
+}
+
+.visa-radio {
+  margin-left: 4.5rem;
+}
+
+.method-logo {
+  width: 4rem;
+}
+
+.pay-button {
+  font-size: 1.1rem;
+  margin-left: 10rem;
+  margin-top: 3rem;
+  width: 18rem;
+}
+
+.error-msg {
+  color: red;
+  font-size: 1rem;
+  margin-left: 14rem;
+  margin-top: 1.5rem;
+}
