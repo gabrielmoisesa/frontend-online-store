@@ -10,7 +10,7 @@
 <img src="./src/assets/images/frontend-store-preview.png" alt="Front-end Online Store home" width="720">
 
 
-## [Live Demo](frontend-online-store-33.surge.sh)
+## [Live Demo](https://frontend-online-store-33.surge.sh)
 <img src="./src/assets/images/frontend-store.gif" alt="Front-end Online Store home" width="720">
 
 
@@ -20,7 +20,7 @@
 - Search, add to cart and buy anything you want, fetched from the Mercado Livre API.
 - Multiple Routes using React Router.
 - Made in group using agile methodologies and pair programming.
-- Full live preview deployed on Surge: [Front-end Online Store](frontend-online-store-33.surge.sh)
+- Full live preview deployed on Surge: [Front-end Online Store](https://frontend-online-store-33.surge.sh)
 
 ## Installing and running
 
